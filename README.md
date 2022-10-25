@@ -9,3 +9,5 @@ A directory for CW models and logos
 
 ![2](https://github.com/the-universal-guest/cheese-wine-models/blob/20f22bcf215affdb785fc915000640f01a4a30d3/CWL/Images/Renders/CWM%20v5.png?raw=true)
 ^(newest render)
+
+![3](https://github.com/the-universal-guest/cheese-wine-models/blob/19c78d917e98be3124230f78b03a3a45d1530b90/CWL/Images/Cline%202.png?raw=true)
