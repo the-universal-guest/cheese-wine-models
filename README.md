@@ -1,5 +1,7 @@
 # cheese-wine-models
- A directory for CW models and logos
+![alt text](CWL/Images/CWLogo 3.png?raw=true)
+
+A directory for CW models and logos
 
 
 
