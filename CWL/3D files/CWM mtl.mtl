@@ -1,0 +1,213 @@
+newmtl 01___Default
+illum 7
+Kd 0.129412 0.309804 0
+adobe_interior_color 1 1 1
+Ni 1.6
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+Pm 0
+adobe_translucence 0
+Pr 0.6
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+
+newmtl 02___Default Layer Stack
+illum 7
+Kd 0.815686 0.815686 0.815686
+adobe_interior_color 1 1 1
+Ni 1.6
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+map_Pm CWM/02___Default Layer Stack_metallic.png
+adobe_map_translucence CWM/02___Default Layer Stack_translucence.png
+map_Pr CWM/02___Default Layer Stack_roughness.png
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+map_Kd CWM/02___Default Layer Stack_baseColor.png
+
+newmtl 03___Default
+illum 7
+Kd 0.694118 0.482353 0.227451
+adobe_interior_color 1 1 1
+Ni 1.6
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+Pm 0
+adobe_translucence 0
+Pr 0.6
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+
+newmtl 01___Default 2
+illum 7
+Kd 0.129412 0.309804 0
+adobe_interior_color 1 1 1
+Ni 1.6
+adobe_density 0
+Tr 0.61
+d 0.39
+Ka 0 0 0
+Ke 0 0 0
+Pm 0
+adobe_translucence 0
+Pr 0.6
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+
+newmtl 02___Default Layer Stack 2
+illum 7
+Kd 0.815686 0.815686 0.815686
+adobe_interior_color 1 1 1
+Ni 1.6
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+map_Pm CWM/02___Default Layer Stack_metallic 2.png
+adobe_map_translucence CWM/02___Default Layer Stack_translucence 2.png
+map_Pr CWM/02___Default Layer Stack_roughness 2.png
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+map_Kd CWM/02___Default Layer Stack_baseColor 2.png
+
+newmtl Default Material 2 Layer Stack
+illum 7
+Kd 0.815686 0.815686 0.815686
+adobe_interior_color 1 1 1
+Ni 1.6
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+map_Pm CWM/Default Material 2 Layer Stack_metallic.png
+adobe_map_translucence CWM/Default Material 2 Layer Stack_translucence.png
+map_Pr CWM/Default Material 2 Layer Stack_roughness.png
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+map_Kd CWM/Default Material 2 Layer Stack_baseColor.png
+
+newmtl Tube Material Layer Stack
+illum 7
+Kd 0.815686 0.815686 0.815686
+adobe_interior_color 1 1 1
+Ni 1.6
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+map_Pm CWM/Tube Material Layer Stack_metallic.png
+adobe_map_translucence CWM/Tube Material Layer Stack_translucence.png
+map_Pr CWM/Tube Material Layer Stack_roughness.png
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+map_Kd CWM/Tube Material Layer Stack_baseColor.png
+norm CWM/Tube Material Layer Stack_normal.png
+
+newmtl Tube Material Layer Stack 2
+illum 7
+Kd 0.815686 0.815686 0.815686
+adobe_interior_color 1 1 1
+Ni 1.6
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+map_Pm CWM/Tube Material Layer Stack_metallic 2.png
+adobe_map_translucence CWM/Tube Material Layer Stack_translucence 2.png
+map_Pr CWM/Tube Material Layer Stack_roughness 2.png
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+map_Kd CWM/Tube Material Layer Stack_baseColor 2.png
+norm CWM/Tube Material Layer Stack_normal.png
+
+newmtl Default Material
+illum 7
+Kd 0.576471 0.658824 0.34902
+adobe_interior_color 1 1 1
+Ni 1.6
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+Pm 0
+adobe_translucence 0
+Pr 0.4
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+
+newmtl Pull Ring Material
+illum 7
+Kd 0.694118 0.482353 0.227451
+adobe_interior_color 1 1 1
+Ni 20
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+Pm 1
+adobe_translucence 0
+Pr 0.3
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+
+newmtl Can Material Layer Stack
+illum 7
+Kd 0.815686 0.815686 0.815686
+adobe_interior_color 1 1 1
+Ni 1.6
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+map_Pm CWM/Can Material Layer Stack_metallic.png
+adobe_map_translucence CWM/Can Material Layer Stack_translucence.png
+map_Pr CWM/Can Material Layer Stack_roughness.png
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+map_Kd CWM/Can Material Layer Stack_baseColor.png
+norm CWM/Can Material Layer Stack_normal.png
+
+newmtl Default Material 2 Layer Stack 2
+illum 7
+Kd 0.815686 0.815686 0.815686
+adobe_interior_color 1 1 1
+Ni 1.6
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+map_Pm CWM/Default Material 2 Layer Stack_metallic 2.png
+adobe_map_translucence CWM/Default Material 2 Layer Stack_translucence 2.png
+map_Pr CWM/Default Material 2 Layer Stack_roughness 2.png
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+map_Kd CWM/Default Material 2 Layer Stack_baseColor 2.png
